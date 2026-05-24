@@ -19,12 +19,28 @@ The workflow combines exploratory analysis, dimensionality reduction, clustering
 ## Dataset Information
 - Dataset Size: 2,240 records
 - Dataset Type: Marketing and customer behavior data
-- Variables Include:
-  - Customer demographics
-  - Campaign interactions
-  - Purchase behavior
-  - Marketing response indicators
+- Source: Kaggle Marketing Dataset
 
+Variables Include:
+- Customer demographics
+- Campaign interactions
+- Purchase behavior
+- Marketing response indicators
+
+Dataset Link:
+## Dataset Information
+- Dataset Size: 2,240 records
+- Dataset Type: Marketing and customer behavior data
+- Source: Kaggle Marketing Dataset
+
+Variables Include:
+- Customer demographics
+- Campaign interactions
+- Purchase behavior
+- Marketing response indicators
+
+Dataset Link:
+https://www.kaggle.com/
 ---
 
 ## Technologies Used
